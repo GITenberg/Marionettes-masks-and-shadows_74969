@@ -1,0 +1,50 @@
+_repo: Marionettes-masks-and-shadows_74969
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Bell, Corydon
+    birthdate: 1894
+    deathdate: 1980
+    gutenberg_agent_id: '57751'
+    url: http://www.gutenberg.org/2009/agents/57751
+    wikipedia: https://en.wikipedia.org/wiki/Thelma_and_Corydon_Bell
+creator:
+  authors:
+  - agent_name: Mills, Winifred H. (Winifred Harrington)
+    alias: Mills, Winifred Harrington
+    birthdate: 1885
+    gutenberg_agent_id: '57749'
+    url: http://www.gutenberg.org/2009/agents/57749
+  - agent_name: Dunn, Louise M. (Louise Morrison)
+    alias: Dunn, Louise Morrison
+    birthdate: 1875
+    deathdate: 1962
+    gutenberg_agent_id: '57750'
+    url: http://www.gutenberg.org/2009/agents/57750
+description: ''
+gutenberg_issued: '2024-12-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74969'
+  lccn: '28000594'
+language: en
+pgterms:marc904: https://archive.org/details/marionettesmasks0000wini
+pgterms:marc905: 20230830103854mills
+pgterms:marc906: '1927'
+pgterms:marc907: US
+production_note: Richard Tonsing, deaurider, and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: '  $aNew York :$bDoubledaye, Page & co., $c1927.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Costume'
+- !lcsh 'Puppet plays'
+- !lcsh 'Masques'
+- !lcsh 'Shadow shows'
+- !lcc 'PN'
+- GITenberg
+title: Marionettes, masks and shadows
+url: http://www.gutenberg.org/ebooks/74969
