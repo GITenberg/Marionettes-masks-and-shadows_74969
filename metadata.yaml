@@ -8,6 +8,9 @@ contributor:
     gutenberg_agent_id: '57751'
     url: http://www.gutenberg.org/2009/agents/57751
     wikipedia: https://en.wikipedia.org/wiki/Thelma_and_Corydon_Bell
+covers:
+- cover_type: archival
+  image_path: 74969-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Mills, Winifred H. (Winifred Harrington)
@@ -22,6 +25,8 @@ creator:
     gutenberg_agent_id: '57750'
     url: http://www.gutenberg.org/2009/agents/57750
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74969#Marionettes-masks-and-shadows
 gutenberg_issued: '2024-12-23'
 gutenberg_type: Text
 identifiers:
